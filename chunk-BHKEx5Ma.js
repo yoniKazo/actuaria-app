@@ -1,0 +1,1 @@
+import{Qn as le,at as Ng,in as _,jr as w$1}from"./chunk-CO2ZArI-.js";function w(t){t||(t=w$1(le));let i=new _(e=>{if(t.destroyed){e.next();return}return t.onDestroy(e.next.bind(e))});return e=>e.pipe(Ng(i))}export{w as t};

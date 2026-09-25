@@ -1,0 +1,1 @@
+var e={male:`זכר`,female:`נקבה`};export{e as t};
