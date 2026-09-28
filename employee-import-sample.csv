@@ -1,0 +1,4 @@
+﻿national_id,full_name,birth_date,hire_date,salary,gender,fund_balance,section_14_status,section_14_start_date,section_14_coverage_rate,section_14_salary_fraction
+123456782,ישראל ישראלי,15/03/1980,01/06/2010,15000,זכר,85000,אין,,,
+234567899,שרה כהן,22/11/1975,01/01/2005,22000,נקבה,0,מלא,01/01/2005,1,1
+345678908,דוד לוי,05/07/1990,15/09/2018,12500,זכר,30000,חלקי,01/01/2020,0.72,0.8
