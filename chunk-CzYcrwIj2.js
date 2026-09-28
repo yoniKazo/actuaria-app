@@ -1,0 +1,1 @@
+var e={mortality_male:`תמותה - גברים`,mortality_female:`תמותה - נשים`,turnover:`עזיבה`,disability:`נכות`,salary_scale:`סולם שכר`,discount_curve:`עקום היוון (מקדמים)`};export{e as t};

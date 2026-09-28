@@ -1,0 +1,1 @@
+import{Mr as w$1,Zt as _,_n as de,vt as Sg}from"./chunk-RG-nqyzU.js";function w(t){t||(t=w$1(de));let i=new _(e=>{if(t.destroyed){e.next();return}return t.onDestroy(e.next.bind(e))});return e=>e.pipe(Sg(i))}export{w as t};

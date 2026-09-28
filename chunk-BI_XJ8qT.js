@@ -1,0 +1,1 @@
+import{it as ft}from"./chunk-DQrwQ4LK.js";function i(r,e,n){if(!(r instanceof ft))return n;let o=r.error?.error;return o&&e[o]||n}export{i as t};
